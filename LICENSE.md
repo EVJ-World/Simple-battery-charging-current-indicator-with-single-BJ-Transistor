@@ -7,11 +7,11 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 When you use, adapt, remix, or redistribute any part of the published electrical schematics, you must give appropriate credit to the original author and include a link to at least one of the following profiles:
 
 - LinkedIn: https://linkedin.com/in/vytautasjanusonis
-- GitHub: https://github.com/VJ-EVJ
+- GitHub: https://github.com/EVJ-World
 
 Recommended attribution examples (use one or equivalent wording):
 - "Original schematic by Vytautas Janusonis — https://linkedin.com/in/vytautasjanusonis/"  
-- "Original schematic by Vytautas Janusonis — https://github.com/VJ-EVJ"
+- "Original schematic by Vytautas Janusonis — https://github.com/EVJ-World"
 
 Attribution should be placed where it is reasonably visible and practical, such as the project README, documentation accompanying a reproduction or fork, product manuals or packaging for physical products, or the credits/documentation page of any service, website, or software that embeds or distributes the schematic.
 
@@ -32,3 +32,4 @@ https://www.paypal.com/paypalme/EVJ
 ## Notes
 
 - This file contains a human-readable summary and instructions for attribution and commercial licensing. The full legal code of CC BY-NC-SA 4.0 applies and can be found at the official Creative Commons website.
+
