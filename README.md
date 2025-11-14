@@ -1,6 +1,8 @@
 # Simple Battery Charging Current Indicator (with Single BJT)
 
 This simple circuit shows the charging current level using just one bipolar transistor.
+![Simple current inficator's circuit)](https://github.com/EVJ-World/Simple-battery-charging-current-indicator-with-single-BJ-Transistor/blob/main/simple_charging_indicator.jpg)
+*Fig. 1 – Simple current inficator's schematic (by Vytautas Janusonis / EVJ)*
 
 A simple way to detect battery charge with reasonable accuracy.  
 Here the end of charging is detected when the battery voltage  
